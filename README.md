@@ -5,7 +5,7 @@
 <channels>
 <channel>
 <name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] CAVALEIROS DO ZODIACOS [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/eudesbezerracandido/ZODIACOS-UPDATE/main/README.md</externallink>
 <thumbnail></thumbnail>
 <fanart>https://ia903402.us.archive.org/34/items/fanart_20210211/fanart.jpg</fanart>
 <info></info>
@@ -17,7 +17,7 @@
 <channels>
 <channel>
 <name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] DESENHOS DIVERSOS [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/eudesbezerracandido/DESENHOS/main/README.md</externallink>
 <thumbnail></thumbnail>
 <fanart>https://ia903402.us.archive.org/34/items/fanart_20210211/fanart.jpg</fanart>
 <info></info>
